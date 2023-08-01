@@ -1,4 +1,4 @@
-### Hi I'm Tsegab
+### Hi 👋, I'm Tsegab
 I'm tech enthusiat and web developer
 
 
