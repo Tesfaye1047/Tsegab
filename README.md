@@ -6,7 +6,6 @@ I'm Tsegab, tech enthusiast and a university graduate in computer science. I rea
 
 Skills: NODE/HTML/CSS/JS/PYTHON
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesfaye1047)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tesfaye1047&show_icons=true)  
 
